@@ -11,3 +11,5 @@ class Person (
     @SerializedName("ubigeo_sunat") val ubigeo_sunat: String,
     @SerializedName("ubigeo") val ubigeo: List<String>
 )
+
+
